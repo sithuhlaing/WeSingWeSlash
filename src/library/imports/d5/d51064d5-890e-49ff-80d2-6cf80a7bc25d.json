@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MidGround",
+    "texture": "5740f012-671d-4fac-8502-d97dfb28b588",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1997,
+      847
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1997,
+      847
+    ]
+  }
+}

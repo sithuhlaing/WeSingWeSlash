@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Gen_Inactive",
+    "texture": "cf9f7e15-47c5-43ab-a94b-181ae0e8d20c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      52
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      52
+    ]
+  }
+}

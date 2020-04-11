@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "protal_inactive",
+    "texture": "0d222d1b-52ff-4e82-942d-8343c60446c0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      42,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      105
+    ]
+  }
+}

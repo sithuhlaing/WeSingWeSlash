@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4541d439-f4f1-40cc-9735-f8789476d794",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "gamelobby": {
+      "ver": "1.0.3",
+      "uuid": "58ef16ca-ef4c-4d7e-85ef-5400d86a58b2",
+      "rawTextureUuid": "4541d439-f4f1-40cc-9735-f8789476d794",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 960,
+      "height": 640,
+      "rawWidth": 960,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

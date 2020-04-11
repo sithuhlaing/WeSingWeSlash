@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MsgBox",
+    "texture": "19690287-beb3-4ead-a185-853511b3012a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      866,
+      183
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      866,
+      183
+    ]
+  }
+}

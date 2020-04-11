@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "01796eab-48c1-4aeb-9e24-1fb4c150f13d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "basement_door": {
+      "ver": "1.0.3",
+      "uuid": "0faedb8f-785a-4853-894e-410d148642d6",
+      "rawTextureUuid": "01796eab-48c1-4aeb-9e24-1fb4c150f13d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 23,
+      "rawWidth": 69,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

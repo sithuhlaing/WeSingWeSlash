@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M1
+  rotate: false
+  xy: 261, 178
+  size: 333, 185
+  orig: 333, 185
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 622, 706
+  size: 246, 308
+  orig: 246, 308
+  offset: 0, 0
+  index: -1
+climb_1
+  rotate: false
+  xy: 312, 365
+  size: 308, 649
+  orig: 308, 649
+  offset: 0, 0
+  index: -1
+climb_2
+  rotate: false
+  xy: 2, 365
+  size: 308, 649
+  orig: 308, 649
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 767, 475
+  size: 186, 229
+  orig: 186, 229
+  offset: 0, 0
+  index: -1
+leftarm
+  rotate: true
+  xy: 588, 6
+  size: 149, 170
+  orig: 149, 170
+  offset: 0, 0
+  index: -1
+lefthand
+  rotate: false
+  xy: 870, 747
+  size: 80, 267
+  orig: 80, 267
+  offset: 0, 0
+  index: -1
+leftleg
+  rotate: false
+  xy: 2, 56
+  size: 257, 307
+  orig: 257, 307
+  offset: 0, 0
+  index: -1
+leftthigh
+  rotate: false
+  xy: 596, 157
+  size: 220, 202
+  orig: 220, 202
+  offset: 0, 0
+  index: -1
+lowerboddy
+  rotate: true
+  xy: 453, 2
+  size: 174, 133
+  orig: 174, 133
+  offset: 0, 0
+  index: -1
+rightarm
+  rotate: true
+  xy: 261, 60
+  size: 116, 190
+  orig: 116, 190
+  offset: 0, 0
+  index: -1
+righthand
+  rotate: true
+  xy: 818, 42
+  size: 211, 186
+  orig: 211, 186
+  offset: 0, 0
+  index: -1
+rightleg
+  rotate: true
+  xy: 622, 361
+  size: 343, 143
+  orig: 343, 143
+  offset: 0, 0
+  index: -1
+rightthigh
+  rotate: false
+  xy: 818, 255
+  size: 204, 218
+  orig: 204, 218
+  offset: 0, 0
+  index: -1
